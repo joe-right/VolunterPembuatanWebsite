@@ -10,3 +10,4 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 Berikut daftar Volunter yang diterima:
 
 * Diding, [dd.or.id](https://dd.or.id).
+* Bagoes, [github](https://bagoes.github.io).
